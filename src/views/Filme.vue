@@ -30,7 +30,7 @@ export default {
   name: "filme",
   data() {
     return {
-      imgFilmes: "aonda.jpg"
+      imgFilmes: []
     };
   },
   methods: {
