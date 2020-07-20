@@ -1,32 +1,59 @@
 <template>
   <div id="app">
-    <div id="nav">
-      <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link>
-    </div>
-    <router-view/>
+    <TheMenu />
+    <router-view />
   </div>
 </template>
 
+<script>
+import TheMenu from "@/components/TheMenu.vue";
+export default {
+  components: {
+    TheMenu
+  }
+};
+</script>
+
 <style>
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
+body {
+  margin: 0px;
+  font-family: "Avenir", Arial;
+  color: #234;
 }
-
-#nav {
-  padding: 30px;
+ul {
+  list-style: none;
+  margin: 0px;
+  padding: 0px;
 }
-
-#nav a {
+a {
   font-weight: bold;
-  color: #2c3e50;
+  text-decoration: none;
 }
 
-#nav a.router-link-exact-active {
-  color: #42b983;
+a.router-link-exact-active {
+  color: #4b8;
+}
+
+.container {
+  max-width: 980px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.v-enter {
+  opacity: 0;
+  transform: translate3d(-20px, 0, 0);
+}
+
+.v-enter-active {
+  transition: all 0.3s;
+}
+
+.bloco {
+  display: flex;
+}
+
+.api_main div {
+  border: 0.5px solid black;
 }
 </style>

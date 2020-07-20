@@ -1,0 +1,313 @@
+{
+  "portal": {
+    "id": "videos",
+    "titulo": "Videos do youtube",
+    "descricao": "Acesse nosso conteudo completo"
+  },
+  "filmes": {
+    "id": "filmes",
+    "titulo": "Videos do youtube 2",
+    "descricao": "Acesse nosso conteudo completo",
+    "filmes": [
+      {
+        "id": "aonda",
+        "nome": "A Onda",
+        "duracao": "1h48 min",
+        "descricao": "Rainer Wegner, professor de ensino médio, deve ensinar seus alunos sobre autocracia. Devido ao desinteresse deles, propõe um experimento que explique na prática os mecanismos do fascismo e do poder. Wegner se denomina o líder daquele grupo, escolhe o lema “força pela disciplina” e dá ao movimento o nome de A Onda. Em pouco tempo, os alunos começam a propagar o poder da unidade e ameaçar os outros. Quando o jogo fica sério, Wegner decide interrompê-lo. Mas é tarde demais, e A Onda já saiu de seu controle. Baseado em uma história real ocorrida na Califórnia em 1967.",
+        "diretor": "Dennis Gansel",
+        "categoria": "filme",
+        "img": "./src/assets/aonda.jpg"
+      },
+      {
+        "id": "egitoum",
+        "nome": "Os misterios do antigo egito",
+        "duracao": "48 min",
+        "descricao": "Desvendando alguns misterios",
+        "diretor": "Felipe Castanhari",
+        "categoria": "documentario"
+      },
+      {
+        "id": "chernobylum",
+        "nome": "Chernobyl: A historia completa",
+        "duracao": "31 min",
+        "descricao": "No dia 26 de Abril de 1986, o reator número 4 da Usina Nuclear de Chernobyl explodiu. Esse foi o maior acidente nuclear já registrado. Essa é a história dele.",
+        "diretor": "Ciencia todo dia",
+        "categoria": "documentario"
+      },
+      {
+        "id": "gravitacionalum",
+        "nome": "A historia completa da gravitação universal",
+        "duracao": "30 min",
+        "descricao": "A Gravitação Universal é uma das reviravoltas mais impressionantes da física. Entendê-la é apreciar a sua história. Ela é lembrada por causa de Newton, mas vários outros cientistas, pensadores e astrônomos como Kepler e Tycho Brahe ajudaram a formular as leis de movimento dos céus, que hoje nos ajudam a explicar desde o Sistema Solar até a órbita de buracos negros ou qualquer outro objeto do Universo.",
+        "diretor": "Ciencia todo dia",
+        "categoria": "documentario"
+      },
+      {
+        "id": "onzeum",
+        "nome": "A historia por tras do 11 de setembro",
+        "duracao": "48 min",
+        "descricao": "Desvendando o caos do Bin Laden",
+        "diretor": "Felipe Castanhari",
+        "categoria": "documentario"
+      },
+
+      {
+        "id": "masterofmoney",
+        "nome": "Master of Money",
+        "duracao": "3 Episodios",
+        "descricao": "The series explores the lives of John Maynard Keynes, Friedrich Hayek, and Karl Marx, and their influence on modern economics.[2] Keynes is known for Keynesian economics and as an early pioneer of macroeconomics, Hayek is part of the Austrian School of economics, and Marx is known for communism and the theories that are collectively called Marxism.",
+        "diretor": "BBC",
+        "categoria": "serie"
+      },
+      {
+        "id": "origin",
+        "nome": "Origin",
+        "duracao": "11 Episodios",
+        "descricao": "From the producers of The Crown & producers of Lost comes Origin, a chilling new original series that follows a group of troubled passengers as they wake up on a damaged spaceship abandoned in deep space. Each having left behind a dark past in search of a fresh start on a newly colonized planet, they’re determined to survive at all costs. But as their terrifying situation spirals into paranoia, they come to realize that the greatest threat to their dream of starting over – and indeed their lives – is something far darker than the pasts they were so desperate to escape.",
+        "diretor": "BBC",
+        "categoria": "serie"
+      }
+    ]
+  },
+  "filme": [
+    {
+      "id": "aonda",
+      "nome": "A Onda",
+      "duracao": "1h48 min",
+      "descricao": "Rainer Wegner, professor de ensino médio, deve ensinar seus alunos sobre autocracia. Devido ao desinteresse deles, propõe um experimento que explique na prática os mecanismos do fascismo e do poder. Wegner se denomina o líder daquele grupo, escolhe o lema “força pela disciplina” e dá ao movimento o nome de A Onda. Em pouco tempo, os alunos começam a propagar o poder da unidade e ameaçar os outros. Quando o jogo fica sério, Wegner decide interrompê-lo. Mas é tarde demais, e A Onda já saiu de seu controle. Baseado em uma história real ocorrida na Califórnia em 1967.      ",
+      "diretor": "Dennis Gansel",
+      "categoria": "documentario",
+      "img": "../assets/aonda.jpg",
+      "episodio": [
+        {
+          "id": "epaonda",
+          "nome": "A Onda"
+        }
+      ]
+    },
+    {
+      "id": "egitoum",
+      "nome": "Os misterios do antigo egito",
+      "duracao": "48 min",
+      "descricao": "Desvendando alguns misterios",
+      "diretor": "Felipe Castanhari",
+      "categoria": "documentario",
+      "img": "../assets/aonda.jpg",
+
+      "episodio": [
+        {
+          "id": "epegitoum",
+          "nome": "Os misterios do antigo egito"
+        }
+      ]
+    },
+    {
+      "id": "chernobylum",
+      "nome": "Chernobyl: A historia completa",
+      "duracao": "31 min",
+      "descricao": "No dia 26 de Abril de 1986, o reator número 4 da Usina Nuclear de Chernobyl explodiu. Esse foi o maior acidente nuclear já registrado. Essa é a história dele.",
+      "diretor": "Ciencia todo dia",
+      "categoria": "documentario",
+      "img": "../assets/aonda.jpg",
+
+      "episodio": [
+        {
+          "id": "chernobylum",
+          "nome": "Chernobyl: A historia completa"
+        }
+      ]
+    },
+    {
+      "id": "gravitacionalum",
+      "nome": "A historia completa da gravitação universal",
+      "duracao": "30 min",
+      "descricao": "A Gravitação Universal é uma das reviravoltas mais impressionantes da física. Entendê-la é apreciar a sua história. Ela é lembrada por causa de Newton, mas vários outros cientistas, pensadores e astrônomos como Kepler e Tycho Brahe ajudaram a formular as leis de movimento dos céus, que hoje nos ajudam a explicar desde o Sistema Solar até a órbita de buracos negros ou qualquer outro objeto do Universo.",
+      "diretor": "Ciencia todo dia",
+      "categoria": "documentario",
+      "img": "../assets/aonda.jpg",
+
+      "episodio": [
+        {
+          "id": "epgravitacional",
+          "nome": "A historia completa da gravitação universal"
+        }
+      ]
+    },
+    {
+      "id": "onzeum",
+      "nome": "A historia por tras do 11 de setembro",
+      "duracao": "48 min",
+      "descricao": "Desvendando o caos do Bin Laden",
+      "diretor": "Felipe Castanhari",
+      "categoria": "documentario",
+      "img": "../assets/aonda.jpg",
+
+      "episodio": [
+        {
+          "id": "eponze",
+          "nome": "A historia por tras do 11 de setembro"
+        }
+      ]
+    },
+
+    {
+      "id": "masterofmoney",
+      "nome": "Master of Money",
+      "duracao": "3 Episodios",
+      "descricao": "The series explores the lives of John Maynard Keynes, Friedrich Hayek, and Karl Marx, and their influence on modern economics.[2] Keynes is known for Keynesian economics and as an early pioneer of macroeconomics, Hayek is part of the Austrian School of economics, and Marx is known for communism and the theories that are collectively called Marxism.",
+      "diretor": "BBC",
+      "categoria": "serie",
+      "img": "../assets/aonda.jpg",
+
+      "episodio": [
+        {
+          "id": "masterofmoneykeynes",
+          "nome": "EP 1 - Keynes"
+        },
+        {
+          "id": "masterofmoneyhayek",
+          "nome": "EP 2 - Hayek"
+        },
+        {
+          "id": "masterofmoneymarx",
+          "nome": "EP 3 - Marx"
+        }
+      ]
+    },
+    {
+      "id": "origin",
+      "nome": "Origin",
+      "duracao": "11 Episodios",
+      "descricao": "From the producers of The Crown & producers of Lost comes Origin, a chilling new original series that follows a group of troubled passengers as they wake up on a damaged spaceship abandoned in deep space. Each having left behind a dark past in search of a fresh start on a newly colonized planet, they’re determined to survive at all costs. But as their terrifying situation spirals into paranoia, they come to realize that the greatest threat to their dream of starting over – and indeed their lives – is something far darker than the pasts they were so desperate to escape.",
+      "diretor": "BBC",
+      "categoria": "serie",
+      "img": "../assets/aonda.jpg",
+
+      "episodio": [
+        {
+          "id": "originepum",
+          "nome": "EP 1 - The Road not Taken"
+        },
+        {
+          "id": "originepdois",
+          "nome": "EP 2 - Lost on both sides"
+        },
+        {
+          "id": "origineptres",
+          "nome": "EP 3 - Bright Star"
+        },
+        {
+          "id": "originepquatro",
+          "nome": "EP 4 - God's Grandeur"
+        },
+        {
+          "id": "originepcinco",
+          "nome": "EP 5 - Remember Me"
+        },
+        {
+          "id": "originepseis",
+          "nome": "EP 6 - Fire and Ice"
+        },
+        {
+          "id": "originepsete",
+          "nome": "EP 7 - The Wasteland"
+        },
+        {
+          "id": "originepoito",
+          "nome": "EP 8 - Funeral Blues"
+        },
+        {
+          "id": "originepnove",
+          "nome": "EP 9 - A Total Stranger"
+        },
+        {
+          "id": "originepdez",
+          "nome": "EP 10 - I Am"
+        }
+      ]
+    }
+  ],
+  "episodio": [
+    {
+      "id": "epaonda",
+      "nome": "A Onda",
+      "filme": {
+        "id": "aonda",
+        "nome": "A Onda"
+      },
+      "youtube": "zG3TfjAhs30"
+    },
+    {
+      "id": "epegitoum",
+      "nome": "Os misterios do antigo egito",
+      "filme": {
+        "id": "egitoum",
+        "nome": "Os misterios do antigo egito"
+      },
+      "youtube": "ebm-fLo9-NA"
+    },
+    {
+      "id": "epchernobyl",
+      "nome": "Os misterios do antigo egito",
+      "filme": {
+        "id": "chernobylum",
+        "nome": "Chernobyl: A historia completa"
+      },
+      "youtube": "DiGqjYkRQ6o"
+    },
+    {
+      "id": "gravitacionalum",
+      "nome": "A historia completa da gravitação universal",
+      "filme": {
+        "id": "epgravitacional",
+        "nome": "A historia completa da gravitação universal"
+      },
+      "youtube": "4OLOOs-uMhM"
+    },
+    {
+      "id": "onzeum",
+      "nome": "A historia por tras do 11 de setembro",
+      "filme": {
+        "id": "eponze",
+        "nome": "A historia por tras do 11 de setembro"
+      },
+      "youtube": "79YrLCTa91E"
+    },
+    {
+      "id": "masterofmoneykeynes",
+      "nome": "EP 1 - Keynes",
+      "filme": {
+        "id": "masterofmoney",
+        "nome": "Master of Money"
+      },
+      "youtube": "CkHooEp3vRE"
+    },
+    {
+      "id": "masterofmoneyhayek",
+      "nome": "EP 2 - Hayek",
+      "filme": {
+        "id": "masterofmoney",
+        "nome": "Master of Money"
+      },
+      "youtube": "EIYqTj402PE"
+    },
+    {
+      "id": "masterofmoneymarx",
+      "nome": "EP 3 - Marx",
+      "filme": {
+        "id": "masterofmoney",
+        "nome": "Master of Money"
+      },
+      "youtube": "IyrhoHtSkzg"
+    },
+    {
+      "id": "originepum",
+      "nome": "EP 1 - The Road not Taken",
+      "filme": {
+        "id": "origin",
+        "nome": "Origin"
+      },
+      "youtube": "9fUU6y5-rTc"
+    }
+  ]
+}

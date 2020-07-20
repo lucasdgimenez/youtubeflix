@@ -1,0 +1,14 @@
+<template>
+  <div>
+    <h1>Contato</h1>
+  </div>
+</template>
+
+<script>
+export default {
+  name: "contato"
+};
+</script>
+
+<style>
+</style>
