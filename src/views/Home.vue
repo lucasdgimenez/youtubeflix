@@ -1,16 +1,12 @@
 <template>
   <div class="container">
-    <h1>Home</h1>
     <div v-if="api" class="api_main">
-      <h1>Filmes</h1>
       <div>
         <Filmes />
       </div>
-      <h1>Documentarios</h1>
       <div>
         <Documentarios />
       </div>
-      <h1>Series</h1>
       <div>
         <Series />
       </div>
@@ -30,11 +26,11 @@ export default {
   components: {
     Filmes,
     Documentarios,
-    Series
+    Series,
   },
   created() {
     this.fetchData("/portal");
-  }
+  },
 };
 </script>
 

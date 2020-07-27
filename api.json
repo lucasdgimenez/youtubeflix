@@ -15,24 +15,58 @@
         "duracao": "1h48 min",
         "descricao": "Rainer Wegner, professor de ensino médio, deve ensinar seus alunos sobre autocracia. Devido ao desinteresse deles, propõe um experimento que explique na prática os mecanismos do fascismo e do poder. Wegner se denomina o líder daquele grupo, escolhe o lema “força pela disciplina” e dá ao movimento o nome de A Onda. Em pouco tempo, os alunos começam a propagar o poder da unidade e ameaçar os outros. Quando o jogo fica sério, Wegner decide interrompê-lo. Mas é tarde demais, e A Onda já saiu de seu controle. Baseado em uma história real ocorrida na Califórnia em 1967.",
         "diretor": "Dennis Gansel",
-        "categoria": "filme",
-        "img": "./src/assets/aonda.jpg"
+        "categoria": "filme"
+      },
+      {
+        "id": "assassinoaprecofixo2",
+        "nome": "Assassino a preco fixo 2",
+        "duracao": "1h38 min",
+        "descricao": "Vivendo escondido no Rio de Janeiro há cinco meses, Arthur Bishop (Jason Statham) é descoberto por uma capanga enviada por Riah Crain (Sam Hazeldine), um velho conhecido da época em que viveu no orfanato. Crain quer que Bishop retorne à vida de assassino para eliminar três pessoas que atrapalham bastante seus negócios, mas com uma exigência: que as mortes sempre aparentem terem sido acidentais. Para tanto, usa como isca Gina (Jessica Alba), uma ex-agente que dá aulas na Tailândia, por quem Bishop está interessado.",
+        "diretor": "Dennis Gansel",
+        "categoria": "filme"
+      },
+      {
+        "id": "deadpool2",
+        "nome": "Deadpool 2",
+        "duracao": "2h",
+        "descricao": "Quando o super soldado Cable (Josh Brolin) chega em uma missão para assassinar o jovem mutante Russel (Julian Dennison), o mercenário Deadpool (Ryan Reynolds) precisa aprender o que é ser herói de verdade para salvá-lo. Para isso, ele recruta seu velho amigo Colossus e forma o novo grupo X-Force, sempre com o apoio do fiel escudeiro Dopinder (Karan Soni).",
+        "diretor": "David Leitch",
+        "categoria": "filme"
+      },
+      {
+        "id": "ajusticeira",
+        "nome": "A Justiceira",
+        "duracao": "1h42",
+        "descricao": "Quando o marido e a filha são mortos a tiros diante de um parque de diversões, Riley (Jennifer Garner) acorda de um coma e passa os anos seguintes aprendendo a se tornar uma máquina de matar. No quinto aniversário da morte de sua família, ela tem como alvo todos os responsáveis: a gangue que cometeu o crime, os advogados que os libertaram e os policiais corruptos que permitiram que tudo acontecesse.",
+        "diretor": "Pierre Morel",
+        "categoria": "filme"
+      },
+      {
+        "id": "rouboemmontecarlo",
+        "nome": "Roubo em monte carlo",
+        "duracao": "1h32",
+        "descricao": "Em Roubo em Monte Carlo, o banqueiro Matvey Levin evita ao máximo dividir sua fortuna com seus filhos. Entetanto, quando ele perde tudo, percebe que apenas os filhos poderão ajudar em seu plano para recuperar sua riqueza. Para isso, Matvey planeja assaltar o próprio banco em Monte Carlo, mas antes, precisará reconquistar a confiança de seus filhos.",
+        "diretor": "Roman Prygunov",
+        "categoria": "filme"
       },
       {
         "id": "egitoum",
         "nome": "Os misterios do antigo egito",
         "duracao": "48 min",
-        "descricao": "Desvendando alguns misterios",
+        "descricao": "O Antigo Egito foi uma civilização do Antigo Oriente Próximo do Norte de África, concentrada ao longo ao curso inferior do rio Nilo, no que é hoje o país moderno do Egito. Era parte de um complexo de civilizações, as civilizações do Vale do Nilo, do qual também faziam parte as regiões ao sul do Egito, atualmente no Sudão, Eritreia, Etiópia e Somália. Tinha como fronteiras o Mar Mediterrâneo, a norte, o Deserto da Líbia, a oeste, o Deserto Oriental Africano a leste e a primeira catarata do Nilo a sul. Foi umas das primeiras grandes civilizações da Antiguidade e manteve durante sua existência uma continuidade nas suas formas políticas, artísticas, literárias e religiosas, explicável em parte devido aos condicionalismos geográficos, embora as influências culturais e contactos com o estrangeiro tenham sido também uma realidade.",
         "diretor": "Felipe Castanhari",
-        "categoria": "documentario"
+        "categoria": "documentario",
+        "num": 1
       },
+
       {
         "id": "chernobylum",
         "nome": "Chernobyl: A historia completa",
         "duracao": "31 min",
         "descricao": "No dia 26 de Abril de 1986, o reator número 4 da Usina Nuclear de Chernobyl explodiu. Esse foi o maior acidente nuclear já registrado. Essa é a história dele.",
         "diretor": "Ciencia todo dia",
-        "categoria": "documentario"
+        "categoria": "documentario",
+        "num": 2
       },
       {
         "id": "gravitacionalum",
@@ -40,7 +74,8 @@
         "duracao": "30 min",
         "descricao": "A Gravitação Universal é uma das reviravoltas mais impressionantes da física. Entendê-la é apreciar a sua história. Ela é lembrada por causa de Newton, mas vários outros cientistas, pensadores e astrônomos como Kepler e Tycho Brahe ajudaram a formular as leis de movimento dos céus, que hoje nos ajudam a explicar desde o Sistema Solar até a órbita de buracos negros ou qualquer outro objeto do Universo.",
         "diretor": "Ciencia todo dia",
-        "categoria": "documentario"
+        "categoria": "documentario",
+        "num": 3
       },
       {
         "id": "onzeum",
@@ -48,7 +83,8 @@
         "duracao": "48 min",
         "descricao": "Desvendando o caos do Bin Laden",
         "diretor": "Felipe Castanhari",
-        "categoria": "documentario"
+        "categoria": "documentario",
+        "num": 4
       },
 
       {
@@ -66,6 +102,30 @@
         "descricao": "From the producers of The Crown & producers of Lost comes Origin, a chilling new original series that follows a group of troubled passengers as they wake up on a damaged spaceship abandoned in deep space. Each having left behind a dark past in search of a fresh start on a newly colonized planet, they’re determined to survive at all costs. But as their terrifying situation spirals into paranoia, they come to realize that the greatest threat to their dream of starting over – and indeed their lives – is something far darker than the pasts they were so desperate to escape.",
         "diretor": "BBC",
         "categoria": "serie"
+      },
+      {
+        "id": "ocodigodariqueza",
+        "nome": "O Codigo da Riqueza",
+        "duracao": "2 Episodios",
+        "descricao": "O Código da Riqueza é a maior pesquisa sobre a riqueza já feita, procuramos em livros, pessoas, técnicas e hábitos comuns entre as pessoas mais bem sucedidas para identificar o que nos faz seguir no caminho da nossa riqueza. E essa pesquisa é pública, vamos divulgar nosso aprendizado para fazer cada brasileiro seguir no caminho da abundância e assim aumentar o PIB brasileiro.",
+        "diretor": "Primo Rico",
+        "categoria": "serie"
+      },
+      {
+        "id": "euapatroa",
+        "nome": "Eu, a patroa e as crianças",
+        "duracao": "2 Episodios",
+        "descricao": "Tudo o que Michael Kyle (Damon Wayans) quer é ter uma vida tradicional com sua família. Mas sua esposa, a comerciante Janet 'Jay' (Tisha Campbell-Martin), o filho que é fã de rap e passa longe de ser o gênio da família, Michael Jr. (George Gore), e as duas filhas, Claire (Jennifer Freeman) e Kady (Parker McKenna Posey), fazem do seu sonho apenas isso: um sonho.",
+        "diretor": "Damon Wayans and Don Reo",
+        "categoria": "serie"
+      },
+      {
+        "id": "masterchef",
+        "nome": "Master Chef",
+        "duracao": "2 Episodios",
+        "descricao": "MasterChef Brasil é um talent show de culinária brasileiro exibido pela Rede Bandeirantes, baseado no consagrado formato original de mesmo nome exibido pela BBC no Reino Unido. O programa é apresentado pela jornalista Ana Paula Padrão e, os jurados são os Chefs Henrique Fogaça, Érick Jacquin e Paola Carosella.",
+        "diretor": "Patricio Diaz",
+        "categoria": "serie"
       }
     ]
   },
@@ -76,12 +136,69 @@
       "duracao": "1h48 min",
       "descricao": "Rainer Wegner, professor de ensino médio, deve ensinar seus alunos sobre autocracia. Devido ao desinteresse deles, propõe um experimento que explique na prática os mecanismos do fascismo e do poder. Wegner se denomina o líder daquele grupo, escolhe o lema “força pela disciplina” e dá ao movimento o nome de A Onda. Em pouco tempo, os alunos começam a propagar o poder da unidade e ameaçar os outros. Quando o jogo fica sério, Wegner decide interrompê-lo. Mas é tarde demais, e A Onda já saiu de seu controle. Baseado em uma história real ocorrida na Califórnia em 1967.      ",
       "diretor": "Dennis Gansel",
-      "categoria": "documentario",
+      "categoria": "filme",
       "img": "../assets/aonda.jpg",
       "episodio": [
         {
           "id": "epaonda",
-          "nome": "A Onda"
+          "nome": "A Onda",
+          "img": "./src/assets/aonda.jpg"
+        }
+      ]
+    },
+    {
+      "id": "assassinoaprecofixo2",
+      "nome": "Assassino a preco fixo 2",
+      "duracao": "1h38 min",
+      "descricao": "Vivendo escondido no Rio de Janeiro há cinco meses, Arthur Bishop (Jason Statham) é descoberto por uma capanga enviada por Riah Crain (Sam Hazeldine), um velho conhecido da época em que viveu no orfanato. Crain quer que Bishop retorne à vida de assassino para eliminar três pessoas que atrapalham bastante seus negócios, mas com uma exigência: que as mortes sempre aparentem terem sido acidentais. Para tanto, usa como isca Gina (Jessica Alba), uma ex-agente que dá aulas na Tailândia, por quem Bishop está interessado.",
+      "diretor": "Dennis Gansel",
+      "categoria": "filme",
+      "episodio": [
+        {
+          "id": "epassassino",
+          "nome": "Assassino a preco fixo 2"
+        }
+      ]
+    },
+    {
+      "id": "deadpool2",
+      "nome": "Deadpool 2",
+      "duracao": "2h",
+      "descricao": "Quando o super soldado Cable (Josh Brolin) chega em uma missão para assassinar o jovem mutante Russel (Julian Dennison), o mercenário Deadpool (Ryan Reynolds) precisa aprender o que é ser herói de verdade para salvá-lo. Para isso, ele recruta seu velho amigo Colossus e forma o novo grupo X-Force, sempre com o apoio do fiel escudeiro Dopinder (Karan Soni).",
+      "diretor": "David Leitch",
+      "categoria": "filme",
+      "episodio": [
+        {
+          "id": "epdeadpool",
+          "nome": "Deadpool 2"
+        }
+      ]
+    },
+    {
+      "id": "ajusticeira",
+      "nome": "A Justiceira",
+      "duracao": "1h42",
+      "descricao": "Quando o marido e a filha são mortos a tiros diante de um parque de diversões, Riley (Jennifer Garner) acorda de um coma e passa os anos seguintes aprendendo a se tornar uma máquina de matar. No quinto aniversário da morte de sua família, ela tem como alvo todos os responsáveis: a gangue que cometeu o crime, os advogados que os libertaram e os policiais corruptos que permitiram que tudo acontecesse.",
+      "diretor": "Pierre Morel",
+      "categoria": "filme",
+      "episodio": [
+        {
+          "id": "epajusticeira",
+          "nome": "A Justiceira"
+        }
+      ]
+    },
+    {
+      "id": "rouboemmontecarlo",
+      "nome": "Roubo em monte carlo",
+      "duracao": "1h32",
+      "descricao": "Em Roubo em Monte Carlo, o banqueiro Matvey Levin evita ao máximo dividir sua fortuna com seus filhos. Entetanto, quando ele perde tudo, percebe que apenas os filhos poderão ajudar em seu plano para recuperar sua riqueza. Para isso, Matvey planeja assaltar o próprio banco em Monte Carlo, mas antes, precisará reconquistar a confiança de seus filhos.",
+      "diretor": "Roman Prygunov",
+      "categoria": "filme",
+      "episodio": [
+        {
+          "id": "eprouboemmontecarlo",
+          "nome": "Roubo em monte carlo"
         }
       ]
     },
@@ -89,11 +206,11 @@
       "id": "egitoum",
       "nome": "Os misterios do antigo egito",
       "duracao": "48 min",
-      "descricao": "Desvendando alguns misterios",
+      "descricao": "O Antigo Egito foi uma civilização do Antigo Oriente Próximo do Norte de África, concentrada ao longo ao curso inferior do rio Nilo, no que é hoje o país moderno do Egito. Era parte de um complexo de civilizações, as civilizações do Vale do Nilo, do qual também faziam parte as regiões ao sul do Egito, atualmente no Sudão, Eritreia, Etiópia e Somália. Tinha como fronteiras o Mar Mediterrâneo, a norte, o Deserto da Líbia, a oeste, o Deserto Oriental Africano a leste e a primeira catarata do Nilo a sul. Foi umas das primeiras grandes civilizações da Antiguidade e manteve durante sua existência uma continuidade nas suas formas políticas, artísticas, literárias e religiosas, explicável em parte devido aos condicionalismos geográficos, embora as influências culturais e contactos com o estrangeiro tenham sido também uma realidade.",
       "diretor": "Felipe Castanhari",
       "categoria": "documentario",
       "img": "../assets/aonda.jpg",
-
+      "num": "1",
       "episodio": [
         {
           "id": "epegitoum",
@@ -109,10 +226,10 @@
       "diretor": "Ciencia todo dia",
       "categoria": "documentario",
       "img": "../assets/aonda.jpg",
-
+      "num": "2",
       "episodio": [
         {
-          "id": "chernobylum",
+          "id": "epchernobyl",
           "nome": "Chernobyl: A historia completa"
         }
       ]
@@ -125,7 +242,7 @@
       "diretor": "Ciencia todo dia",
       "categoria": "documentario",
       "img": "../assets/aonda.jpg",
-
+      "num": "3",
       "episodio": [
         {
           "id": "epgravitacional",
@@ -140,8 +257,7 @@
       "descricao": "Desvendando o caos do Bin Laden",
       "diretor": "Felipe Castanhari",
       "categoria": "documentario",
-      "img": "../assets/aonda.jpg",
-
+      "num": "4",
       "episodio": [
         {
           "id": "eponze",
@@ -149,7 +265,21 @@
         }
       ]
     },
-
+    {
+      "id": "onzeum",
+      "nome": "A historia por tras do 11 de setembro",
+      "duracao": "48 min",
+      "descricao": "Desvendando o caos do Bin Laden",
+      "diretor": "Felipe Castanhari",
+      "categoria": "documentario",
+      "num": "5",
+      "episodio": [
+        {
+          "id": "eponze",
+          "nome": "A historia por tras do 11 de setembro"
+        }
+      ]
+    },
     {
       "id": "masterofmoney",
       "nome": "Master of Money",
@@ -157,7 +287,6 @@
       "descricao": "The series explores the lives of John Maynard Keynes, Friedrich Hayek, and Karl Marx, and their influence on modern economics.[2] Keynes is known for Keynesian economics and as an early pioneer of macroeconomics, Hayek is part of the Austrian School of economics, and Marx is known for communism and the theories that are collectively called Marxism.",
       "diretor": "BBC",
       "categoria": "serie",
-      "img": "../assets/aonda.jpg",
 
       "episodio": [
         {
@@ -181,8 +310,6 @@
       "descricao": "From the producers of The Crown & producers of Lost comes Origin, a chilling new original series that follows a group of troubled passengers as they wake up on a damaged spaceship abandoned in deep space. Each having left behind a dark past in search of a fresh start on a newly colonized planet, they’re determined to survive at all costs. But as their terrifying situation spirals into paranoia, they come to realize that the greatest threat to their dream of starting over – and indeed their lives – is something far darker than the pasts they were so desperate to escape.",
       "diretor": "BBC",
       "categoria": "serie",
-      "img": "../assets/aonda.jpg",
-
       "episodio": [
         {
           "id": "originepum",
@@ -191,38 +318,60 @@
         {
           "id": "originepdois",
           "nome": "EP 2 - Lost on both sides"
+        }
+      ]
+    },
+    {
+      "id": "ocodigodariqueza",
+      "nome": "O Codigo da Riqueza",
+      "duracao": "2 Episodios",
+      "descricao": "O Código da Riqueza é a maior pesquisa sobre a riqueza já feita, procuramos em livros, pessoas, técnicas e hábitos comuns entre as pessoas mais bem sucedidas para identificar o que nos faz seguir no caminho da nossa riqueza. E essa pesquisa é pública, vamos divulgar nosso aprendizado para fazer cada brasileiro seguir no caminho da abundância e assim aumentar o PIB brasileiro.",
+      "diretor": "Primo Rico",
+      "categoria": "serie",
+      "episodio": [
+        {
+          "id": "ocodigodariquezaepum",
+          "nome": "EP 1 - O que significa ser rico"
         },
         {
-          "id": "origineptres",
-          "nome": "EP 3 - Bright Star"
+          "id": "ocodigodariquezaepdois",
+          "nome": "EP 2 - A verdadeira riqueza"
+        }
+      ]
+    },
+    {
+      "id": "euapatroa",
+      "nome": "Eu, a patroa e as crianças",
+      "duracao": "11 Episodios",
+      "descricao": "Tudo o que Michael Kyle (Damon Wayans) quer é ter uma vida tradicional com sua família. Mas sua esposa, a comerciante Janet 'Jay' (Tisha Campbell-Martin), o filho que é fã de rap e passa longe de ser o gênio da família, Michael Jr. (George Gore), e as duas filhas, Claire (Jennifer Freeman) e Kady (Parker McKenna Posey), fazem do seu sonho apenas isso: um sonho.",
+      "diretor": "Damon Wayans and Don Reo",
+      "categoria": "serie",
+      "episodio": [
+        {
+          "id": "epumeuapatroa",
+          "nome": "EP 1"
         },
         {
-          "id": "originepquatro",
-          "nome": "EP 4 - God's Grandeur"
+          "id": "epdoiseuapatroa",
+          "nome": "EP 2"
+        }
+      ]
+    },
+    {
+      "id": "masterchef",
+      "nome": "Master Chef",
+      "duracao": "2 Episodios",
+      "descricao": "MasterChef Brasil é um talent show de culinária brasileiro exibido pela Rede Bandeirantes, baseado no consagrado formato original de mesmo nome exibido pela BBC no Reino Unido. O programa é apresentado pela jornalista Ana Paula Padrão e, os jurados são os Chefs Henrique Fogaça, Érick Jacquin e Paola Carosella.",
+      "diretor": "Patricio Diaz",
+      "categoria": "serie",
+      "episodio": [
+        {
+          "id": "epummasterchef",
+          "nome": "EP 1"
         },
         {
-          "id": "originepcinco",
-          "nome": "EP 5 - Remember Me"
-        },
-        {
-          "id": "originepseis",
-          "nome": "EP 6 - Fire and Ice"
-        },
-        {
-          "id": "originepsete",
-          "nome": "EP 7 - The Wasteland"
-        },
-        {
-          "id": "originepoito",
-          "nome": "EP 8 - Funeral Blues"
-        },
-        {
-          "id": "originepnove",
-          "nome": "EP 9 - A Total Stranger"
-        },
-        {
-          "id": "originepdez",
-          "nome": "EP 10 - I Am"
+          "id": "epdoismasterchef",
+          "nome": "EP 2"
         }
       ]
     }
@@ -238,6 +387,41 @@
       "youtube": "zG3TfjAhs30"
     },
     {
+      "id": "epassassino",
+      "nome": "Assassino a preco fixo 2",
+      "filme": {
+        "id": "assassinoaprecofixo2",
+        "nome": "Assassino a preco fixo 2"
+      },
+      "youtube": "BSbiHAqBKb0"
+    },
+    {
+      "id": "epdeadpool",
+      "nome": "Deadpool 2",
+      "filme": {
+        "id": "deadpool2",
+        "nome": "Deadpool 2"
+      },
+      "youtube": "MiBZNToIHyE"
+    },
+    {
+      "id": "epajusticeira",
+      "nome": "A Justiceira",
+      "filme": {
+        "id": "ajusticeira",
+        "nome": "A Justiceira"
+      },
+      "youtube": "ou_jea3czo8"
+    },
+    {
+      "id": " eprouboemmontecarlo",
+      "nome": "Roubo em monte carlo",
+      "filme": {
+        "id": "rouboemmontecarlo",
+        "nome": "Roubo em monte carlo"
+      }
+    },
+    {
       "id": "epegitoum",
       "nome": "Os misterios do antigo egito",
       "filme": {
@@ -248,7 +432,7 @@
     },
     {
       "id": "epchernobyl",
-      "nome": "Os misterios do antigo egito",
+      "nome": "Chernobyl: A historia completa",
       "filme": {
         "id": "chernobylum",
         "nome": "Chernobyl: A historia completa"
@@ -276,6 +460,7 @@
     {
       "id": "masterofmoneykeynes",
       "nome": "EP 1 - Keynes",
+      "num": 1,
       "filme": {
         "id": "masterofmoney",
         "nome": "Master of Money"
@@ -285,6 +470,7 @@
     {
       "id": "masterofmoneyhayek",
       "nome": "EP 2 - Hayek",
+      "num": 2,
       "filme": {
         "id": "masterofmoney",
         "nome": "Master of Money"
@@ -294,6 +480,7 @@
     {
       "id": "masterofmoneymarx",
       "nome": "EP 3 - Marx",
+      "num": 3,
       "filme": {
         "id": "masterofmoney",
         "nome": "Master of Money"
@@ -308,6 +495,69 @@
         "nome": "Origin"
       },
       "youtube": "9fUU6y5-rTc"
+    },
+    {
+      "id": "originepdois",
+      "nome": "EP 2 - Lost on both sides",
+      "filme": {
+        "id": "origin",
+        "nome": "Origin"
+      },
+      "youtube": "9h4ImWR2icY"
+    },
+    {
+      "id": "ocodigodariquezaepum",
+      "nome": "EP 1 - O que significa ser rico",
+      "filme": {
+        "id": "ocodigodariqueza",
+        "nome": "O Codigo da Riqueza"
+      },
+      "youtube": "W7J2_AyHaJ4"
+    },
+    {
+      "id": "ocodigodariquezaepdois",
+      "nome": "EP 2 - A verdadeira riqueza",
+      "filme": {
+        "id": "ocodigodariqueza",
+        "nome": "O Codigo da Riqueza"
+      },
+      "youtube": "APQQ8VricZM"
+    },
+    {
+      "id": "epumeuapatroa",
+      "nome": "EP 1 ",
+      "filme": {
+        "id": "euapatroa",
+        "nome": "Eu, a patroa e as crianças"
+      },
+      "youtube": "zFHxpmRhuTw"
+    },
+    {
+      "id": "epdoiseuapatroa",
+      "nome": "EP 2",
+      "filme": {
+        "id": "euapatroa",
+        "nome": "Eu, a patroa e as crianças"
+      },
+      "youtube": "00jnQ5lnG8k"
+    },
+    {
+      "id": "epummasterchef",
+      "nome": "EP 1",
+      "filme": {
+        "id": "masterchef",
+        "nome": "Master Chef"
+      },
+      "youtube": "7q8kss56Hdo"
+    },
+    {
+      "id": "epummasterchef",
+      "nome": "EP 2",
+      "filme": {
+        "id": "masterchef",
+        "nome": "Master Chef"
+      },
+      "youtube": "_AhfDvSl_B8"
     }
   ]
 }

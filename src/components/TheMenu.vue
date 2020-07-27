@@ -3,7 +3,7 @@
     <nav>
       <div class="logo">
         <router-link to="/">
-          <i>Logo</i>
+          <i>YOUTUBE FLIX</i>
         </router-link>
       </div>
       <ul class="menu">
@@ -23,13 +23,14 @@
 
 <script>
 export default {
-  name: "TheMenu"
+  name: "TheMenu",
 };
 </script>
 
 <style scoped>
+@import url("https://fonts.googleapis.com/css2?family=Mulish:wght@700&display=swap");
 header {
-  background: #234;
+  background: #141414;
 }
 nav {
   max-width: 800px;
@@ -44,8 +45,9 @@ nav {
 }
 
 .logo a {
+  font-family: "Mulish", sans-serif;
   font-size: 1.2rem;
-  color: white;
+  color: #d1161d;
 }
 
 ul li {
